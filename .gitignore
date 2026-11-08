@@ -1,0 +1,13 @@
+# Excluded folders
+Python/
+CPP/
+
+venv/
+ns-3.49/
+ns-3.49.tar.bz2
+__pycache__/
+
+# Locally built ns-3 executables
+AODV/aodv-route-repair
+DSDV/dsdv-route-repair
+DSR/dsr-route-repair
